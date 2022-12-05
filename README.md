@@ -1,2 +1,2 @@
 # BlogApplication
-The Blog application is developer using spring boot, spring data jpa, lombok, and more.
+The Blog application is developed using spring boot, spring data jpa, lombok, and more.
